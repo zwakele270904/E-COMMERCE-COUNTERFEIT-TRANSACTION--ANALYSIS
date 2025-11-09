@@ -72,7 +72,7 @@ SELECT * FROM AGE;
 - Counterfeit transactions were happening mostly on Monday than any other day of the week, While Tuesday was the most busy day for non counterfeit
 - June was the most busy month for counterfeit transactions ,while January was the most busy month for non counterfeit transactions
 - DE cutomer location was the one that dominated the counterfeit transactions ,while GB dominated the non counterfeit transactions
-- Pensioners an age from 55 to 70 years dominated both counterfeit and non counterfeit transactions contributing more than 50 % than any other age group 
+- Pensioners an age from 66 to 80 years dominated both counterfeit and non counterfeit transactions contributing more than 50 % than any other age group 
 - Standard shipping speed was the most used shipping speed for counterfeit transactions contributing 54.3%, while express shipping speed dominated the non counterfeit  with 35.2% 
 
 ### Recomendations
